@@ -30,7 +30,7 @@ include 'includes/header.php';
 
       <div class="login-options">
         <a href="signup.php">Sign Up</a>
-        <a href="#">Forgot Password?</a>
+        <a href="forgot-password.php">Forgot Password?</a>
       </div>
 
       <button type="submit" class="login-btn">LOGIN</button>
